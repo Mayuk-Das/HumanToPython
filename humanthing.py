@@ -1,6 +1,3 @@
-import pyttsx3
-import os
-
 while True:
 	print("chat with me with your requirements : "  , end='')
 	p = input()
